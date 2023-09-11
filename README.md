@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Manly and I'm a full-stack web developer from Turkey</h2>
+<h2 align="left">Hello 👋! My name is Manly and I'm a full-stack web developer from Turkey</h2>
 
 ###
 
